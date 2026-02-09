@@ -32,6 +32,7 @@ This Repository showcase my learning projects and practical work across process 
 • Confluence
 • Figma
 • MS Word
+• Lucichart
 
 -Deliverables:
 • BRD
@@ -41,6 +42,7 @@ This Repository showcase my learning projects and practical work across process 
 • Process Flow Diagrams
 • Wireframes
 • Agile Artifacts
+
 
 Project Link:
 https://github.com/Arusha-rgb/UCC-1-Filing-Automation-BA-Case-Study
