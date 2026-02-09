@@ -22,6 +22,8 @@ This Repository showcase my learning projects and practical work across process 
 ## 📑 python Project
 ➡️Description:  Python scripts developed during learning on House Prediction
 
+-Link: Link https://github.com/Arusha-rgb/housing-predication.git
+
 ## UCC-1 Filing Automation – Business Analyst Case Study
 ➡️Description: End-to-end Business Analyst case study demonstrating requirement gathering, documentation, Agile workflow, and UI wireframing for an automated UCC-1 filing system.
 
@@ -45,7 +47,7 @@ https://github.com/Arusha-rgb/UCC-1-Filing-Automation-BA-Case-Study
 
 -Focus: Data handling / Logic Building
 
--Link: Link https://github.com/Arusha-rgb/housing-predication.git
+
 
 
 
